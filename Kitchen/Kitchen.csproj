@@ -43,11 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="InnerContollers\IMicrowave.cs" />
-    <Compile Include="InnerContollers\Microwave.cs" />
-    <Compile Include="Interface\IControlPanel.cs" />
+    <Compile Include="Characteristics\IMicrowaveBase.cs" />
+    <Compile Include="Characteristics\MicrowaveBase.cs" />
     <Compile Include="Models\Moulinex.cs" />
     <Compile Include="Models\Saturn.cs" />
+    <Compile Include="Models\Vesna.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -4,17 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Kitchen.InnerControllers
+namespace Kitchen.Microwave.Characteristics
 {
     public interface IMicrowaveBase
     {
-        void RayWaves(int power);
-        void Cook(int time, int power);
-        void Spin(int speed);
+        void Start();
         void Stop();
     }
 
-    public interface IDefrost : IMicrowaveBase
+    public interface IDefrost
     {
         void Defrost(int time);
     }

@@ -1,0 +1,6 @@
+c:\users\nos\documents\visual studio 2015\Projects\Kitchen\Kitchen\bin\Debug\Kitchen.exe.config
+c:\users\nos\documents\visual studio 2015\Projects\Kitchen\Kitchen\bin\Debug\Kitchen.exe
+c:\users\nos\documents\visual studio 2015\Projects\Kitchen\Kitchen\bin\Debug\Kitchen.pdb
+c:\users\nos\documents\visual studio 2015\Projects\Kitchen\Kitchen\obj\Debug\Kitchen.csprojResolveAssemblyReference.cache
+c:\users\nos\documents\visual studio 2015\Projects\Kitchen\Kitchen\obj\Debug\Kitchen.exe
+c:\users\nos\documents\visual studio 2015\Projects\Kitchen\Kitchen\obj\Debug\Kitchen.pdb
